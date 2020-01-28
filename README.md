@@ -1,5 +1,5 @@
 # How to run
-NodeJS needs to be installed, as well as ExpressJS as it is a dependency. Position yourself within the root directory inside a terminal and run `node server`.
+NodeJS needs to be installed, as well as ExpressJS as it is a dependency (`npm install express`). Position yourself within the root directory inside a terminal and run `node server`. The server will listen for requests in the port defined by the environment variable if it is defined; otherwise, it uses port 3000. For example, opening `localhost:3000/search/users/Zarel` will send a GET request for the user Zarel.
 
 # Architecture considerations
 ExpressJS offers methods to quickly route HTTP requests; only GET and DELETE requests were used for this project.
