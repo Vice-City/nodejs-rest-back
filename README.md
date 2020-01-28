@@ -2,7 +2,7 @@
 NodeJS needs to be installed, as well as ExpressJS as it is a dependency. Position yourself within the root directory inside a terminal and run `node server`.
 
 # Architecture considerations
-ExpressJS offers methods to quickly route HTTP requests; only GET and DELETE requests were used for this project. The 
+ExpressJS offers methods to quickly route HTTP requests; only GET and DELETE requests were used for this project.
 
 # Priorities
 Learning NodeJS and getting the API into a working state.
