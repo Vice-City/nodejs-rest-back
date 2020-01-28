@@ -1,0 +1,4 @@
+./node_modules/**
+./mostSearched.json
+./package-lock.json
+./test.js

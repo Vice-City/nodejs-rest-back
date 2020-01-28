@@ -1,0 +1,11 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "NodeJS REST API for Github.",
+  "main": "server.js",
+  "author": "Vice Ivušić",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
